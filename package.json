@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "websocket-react-simple-example",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -8,6 +8,6 @@
     "lerna": "^7.1.1"
   },
   "scripts": {
-    "start": "lerna run start"
+    "start": "npx lerna run start"
   }
 }
