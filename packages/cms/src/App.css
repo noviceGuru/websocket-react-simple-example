@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hintNote{
+  font-size: large;
+  font-weight: 700;
+  width: 300px;
+  margin-bottom: 50px;
+}
